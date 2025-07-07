@@ -32,46 +32,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 InnoMall – Mall Management Platform  
-**🧠 Full-stack + IoT + AI chatbot**  
-Built admin dashboards, real-time parking with sensors, Stripe integration, and a Gemini-powered assistant.  
-`JavaFX`, `Symfony`, `Stripe API`, `Twilio`, `Gemini API`, `MySQL`
-
-### 🔹 MacroPark – Smart Parking System  
-**🚗 License Plate Recognition + BLE Access + MQTT**  
-ESP32-controlled parking barriers with fallback mobile app access.  
-`C++`, `MQTT`, `BLE`, `WT32-ETH01`, `SPIFFS`
-
-### 🔹 ZenithHouse – Smart Home Controller  
-ESP32-based home automation using Firebase for cloud sync and access control.  
-`C++`, `Firebase`
-
-### 🔹 Smart Unlock  
-BLE mobile app + MQTT door locking system for employees.  
-`C++`, `BLE`, `MQTT`
-
-### 🔹 Smart Agri  
-IoT-based agricultural monitoring for temperature and humidity with real-time Firebase dashboard.  
-`C++`, `IoT Sensors`, `Firebase`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofienezayati&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sofienezayati&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofienezayati&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌍 Languages
 
 - 🇹🇳 Arabic: Native  
@@ -88,4 +48,12 @@ IoT-based agricultural monitoring for temperature and humidity with real-time Fi
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:sofiene.zayati@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E
+    <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sofienezayati&label=Profile+Views&color=blue" alt="Profile Views" />
+</p>
