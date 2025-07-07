@@ -214,12 +214,12 @@
 <div align="center">
   
 ### 🎵 Currently Coding To:
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-fr/album/3OxfaVgvTxUTy7276t7SPU?si=76ba4d3e2e3442c4)
 
 ### 💡 Fun Facts:
 - 🔌 I can make LEDs dance to web APIs
 - 🤖 My favorite debugging buddy is an oscilloscope  
 - 🌐 I dream in both C++ and JavaScript
-- ⚡ Currently working on making my coffee machine IoT-enabled
+- ⚡ Currently working on making my fish tank IoT-enabled
 
 </div>
