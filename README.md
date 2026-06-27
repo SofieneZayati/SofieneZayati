@@ -2,21 +2,21 @@
 
 <div align="center">
 
-<a href="https://sofienezayati.tn">
+<a href="https://sofienezayati.tn" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=940&height=55&lines=Building+AI-powered+full-stack+platforms;Connecting+web%2C+cloud%2C+IoT+and+embedded+systems;From+React+interfaces+to+FastAPI+ML+services;Turning+complex+ideas+into+complete+products" alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://sofienezayati.tn">
+  <a href="https://sofienezayati.tn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00F5FF" alt="Portfolio" />
   </a>
-  <a href="https://sofienezayati.tn/cv.pdf">
+  <a href="https://sofienezayati.tn/cv.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-050505?style=for-the-badge&logo=readdotcv&logoColor=00F5FF" alt="Resume" />
   </a>
-  <a href="https://www.linkedin.com/in/sofiene-zayati">
+  <a href="https://www.linkedin.com/in/sofiene-zayati" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:sofiene.zayati@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sofiene.zayati%40gmail.com&amp;su=Portfolio%20Contact" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" />
   </a>
 </p>
@@ -61,14 +61,14 @@ I build complete intelligent systems—from embedded controllers and backend ser
       <p><strong>AI-Powered Real Estate Platform</strong></p>
       <p>Multi-role real estate system with recommendation models, price prediction, OCR, computer vision, AI assistants, voice navigation, analytics, and real-time features.</p>
       <p><code>React</code> <code>NestJS</code> <code>FastAPI</code> <code>MongoDB</code> <code>PyTorch</code> <code>XGBoost</code> <code>Docker</code> <code>Kubernetes</code></p>
-      <p><a href="https://sofienezayati.tn/project/smartproperty">Case study</a> · <a href="https://youtu.be/z0v_b0Qgeng">Video demo</a></p>
+      <p><a href="https://sofienezayati.tn/project/smartproperty" target="_blank" rel="noopener noreferrer">Case study</a> · <a href="https://youtu.be/z0v_b0Qgeng" target="_blank" rel="noopener noreferrer">Video demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>◈ Prigado AI</h3>
       <p><strong>Intelligent E-Commerce Automation</strong></p>
       <p>AI workflows and assistants for product enrichment, sales analytics, marketing automation, customer support, and logistics prediction.</p>
       <p><code>n8n</code> <code>Laravel</code> <code>Vue.js</code> <code>MySQL</code> <code>Gemini</code> <code>REST APIs</code></p>
-      <p><a href="https://sofienezayati.tn/project/prigado">Case study</a></p>
+      <p><a href="https://sofienezayati.tn/project/prigado" target="_blank" rel="noopener noreferrer">Case study</a></p>
     </td>
   </tr>
   <tr>
@@ -77,20 +77,20 @@ I build complete intelligent systems—from embedded controllers and backend ser
       <p><strong>Smart Parking Ecosystem</strong></p>
       <p>Connected parking platform with LPR, WT32 barrier controllers, MQTT, BLE fallback, OTA updates, mobile access, and live event monitoring.</p>
       <p><code>C++</code> <code>FastAPI</code> <code>MQTT</code> <code>BLE</code> <code>Docker</code> <code>Flutter</code> <code>WT32</code></p>
-      <p><a href="https://sofienezayati.tn/project/macropark">Case study</a> · <a href="https://github.com/SofieneZayati/MacroPark">Repository</a></p>
+      <p><a href="https://sofienezayati.tn/project/macropark" target="_blank" rel="noopener noreferrer">Case study</a> · <a href="https://github.com/SofieneZayati/MacroPark" target="_blank" rel="noopener noreferrer">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>◈ InnoMall</h3>
       <p><strong>Integrated Mall Management System</strong></p>
       <p>JavaFX and Symfony platform with IoT parking, reservations, Stripe payments, analytics, notifications, and an AI chatbot.</p>
       <p><code>Symfony</code> <code>Java</code> <code>JavaFX</code> <code>MySQL</code> <code>Stripe</code> <code>Gemini</code> <code>IoT</code></p>
-      <p><a href="https://sofienezayati.tn/project/innomall">Case study</a> · <a href="https://github.com/Eya-ajimi/pi_symfony1">Repository</a> · <a href="https://youtu.be/Zs875HdhmJ8">Demo</a></p>
+      <p><a href="https://sofienezayati.tn/project/innomall" target="_blank" rel="noopener noreferrer">Case study</a> · <a href="https://github.com/Eya-ajimi/pi_symfony1" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://youtu.be/Zs875HdhmJ8" target="_blank" rel="noopener noreferrer">Demo</a></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://sofienezayati.tn">
+  <a href="https://sofienezayati.tn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Explore_All_Projects-00F5FF?style=for-the-badge&logo=vercel&logoColor=050505" alt="Explore all projects" />
   </a>
 </div>
@@ -163,6 +163,25 @@ I build complete intelligent systems—from embedded controllers and backend ser
 
 ---
 
+## Contact
+
+<div align="center">
+  <p>
+    Open to full-stack, AI automation, embedded systems, and IoT opportunities.
+  </p>
+  <p>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sofiene.zayati%40gmail.com&amp;su=Portfolio%20Contact" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Contact_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=050505" alt="Contact Sofiene by email" />
+    </a>
+    <a href="https://www.linkedin.com/in/sofiene-zayati" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="Connect on LinkedIn" />
+    </a>
+  </p>
+  <p><code>sofiene.zayati@gmail.com</code></p>
+</div>
+
+---
+
 <details>
 <summary><strong>Experience & Education</strong></summary>
 <br />
@@ -197,11 +216,11 @@ Arabic — Native · English — Fluent · French — Fluent · German — Goeth
 <div align="center">
   <h3>Build the full system. Understand every layer.</h3>
   <p>
-    <a href="mailto:sofiene.zayati@gmail.com">Email</a>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sofiene.zayati%40gmail.com&amp;su=Portfolio%20Contact" target="_blank" rel="noopener noreferrer">Email</a>
     &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/sofiene-zayati">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/sofiene-zayati" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     &nbsp;·&nbsp;
-    <a href="https://sofienezayati.tn">Portfolio</a>
+    <a href="https://sofienezayati.tn" target="_blank" rel="noopener noreferrer">Portfolio</a>
   </p>
 </div>
 
