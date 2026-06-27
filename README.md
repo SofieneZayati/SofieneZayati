@@ -1,225 +1,208 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sofiene+Zayati" alt="Typing SVG" />
-  </h1>
-  
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🔧+Embedded+Systems+Engineer+%7C+Web+Developer;🤖+IoT+%2B+AI+%2B+Web+%3D+Future+Innovation;⚡+From+Microcontrollers+to+Machine+Learning;🌐+Building+Smart+Connected+Solutions" alt="Typing SVG" />
-  </h3>
-  
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=90&animation=fadeIn" width="100%"/>
-  </div>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Workshop!+%F0%9F%94%A7;Where+Hardware+meets+Software+%E2%9A%A1;IoT+%2B+AI+%2B+Web+%3D+Innovation;Let's+build+the+connected+future+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="IoT Development" width="400" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
-
-🎯 **Mission**: Revolutionizing the intersection of embedded systems, web technologies, and AI to build next-generation intelligent solutions.
-
-- 🎓 **Education**: 
-  - 🚀 Currently pursuing Engineering in Web & Internet Technologies *(TWIN @ ESPRIT)*
-  - 🔧 Bachelor's in Embedded & Mobile Systems *(ISET Radès)* - **My Foundation**
-- 🧠 **Passion**: The perfect fusion of **Hardware + Software + AI** = Smart Connected Future
-- 🛠️ **Expertise**: From microcontrollers to modern web platforms - I speak both languages
-- 🌱 **Currently**: Mastering the art of **Edge AI**, **IoT Integration**, and **Web-Hardware Fusion**
-- 📧 **Contact**: `sofiene.zayati@gmail.com`
-- 🌐 **Portfolio**: [View My Work](https://portfolio-website-ecru-alpha-31.vercel.app)
-- 📍 **Location**: Tunis, Tunisia 🇹🇳
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F2A,100:00F5FF&height=225&section=header&text=Sofiene%20Zayati&fontSize=62&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20Embedded%20Systems%20Graduate&descAlignY=60&descSize=18&animation=fadeIn" alt="Sofiene Zayati animated header" />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofienezayati&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=36BCF7" alt="Contribution Graph" />
-</div>
 
----
+<a href="https://readme-typing-svg.demolab.com/demo/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=940&height=55&lines=Building+AI-powered+full-stack+platforms;Connecting+web%2C+cloud%2C+IoT+and+embedded+systems;From+React+interfaces+to+FastAPI+ML+services;Turning+complex+ideas+into+complete+products" alt="Animated introduction" />
+</a>
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=My+Technical+Stack+%F0%9F%92%AA" alt="Tech Stack" />
-  
-### 🔧 Embedded Systems & Hardware
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<p>
+  <a href="https://portfolio-website-ecru-alpha-31.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00F5FF" alt="Portfolio" />
+  </a>
+  <a href="https://portfolio-website-ecru-alpha-31.vercel.app/cv.pdf">
+    <img src="https://img.shields.io/badge/Resume-050505?style=for-the-badge&logo=readdotcv&logoColor=00F5FF" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/sofiene-zayati">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sofiene.zayati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" />
+  </a>
 </p>
 
-### 🐍 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,symfony" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
-
-### 🏗️ Development Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 📊 Project Management
-<p align="center">
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SofieneZayati&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Tunis-Tunisia-00F5FF?style=flat-square&labelColor=050505" alt="Tunis, Tunisia" />
+  <img src="https://img.shields.io/badge/TWIN-ESPRIT-00F5FF?style=flat-square&labelColor=050505" alt="TWIN at ESPRIT" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `> whoami`
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofienezayati&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sofienezayati&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=F75C7E&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</div>
+```ts
+const sofiene = {
+  role: "Full-Stack & AI Developer",
+  foundation: "Embedded and Mobile Systems",
+  education: "Web & Internet Technologies Engineering — ESPRIT",
+  focus: [
+    "AI-powered platforms",
+    "Full-stack architecture",
+    "DevOps and cloud deployment",
+    "IoT and embedded systems",
+  ],
+  location: "Tunis, Tunisia",
+};
+```
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofienezayati&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sofienezayati&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌍 Languages & Certifications
-
-<div align="center">
-  
-| Language | Level | Certification |
-|----------|-------|---------------|
-| 🇹🇳 Arabic | Native | Mother Tongue |
-| 🇫🇷 French | Fluent | Professional Working |
-| 🇬🇧 English | Advanced | Professional Working |
-| 🇩🇪 German | A2 | Goethe-Zertifikat |
-
-</div>
+I build complete intelligent systems—from embedded controllers and backend services to polished interfaces, machine-learning features, automation workflows, and deployment pipelines.
 
 ---
 
-## 🎯 Current Focus & Projects
+## Selected Work
 
-<div align="center">
-  
-### 🔭 What I'm Building
-  
 <table>
-<tr>
-<td width="33%">
-
-**🔧 Embedded Systems**
-- IoT sensor networks  
-- Real-time data acquisition
-- Microcontroller programming
-- Hardware-software integration
-
-</td>
-<td width="33%">
-
-**🌐 Web Development**
-- Modern web architectures
-- API development & integration
-- Responsive user interfaces
-- Database design & optimization
-- MVC Pattern implementation
-
-</td>
-<td width="33%">
-
-**🤖 Future Integrations**
-- Learning AI/ML fundamentals
-- Exploring edge computing
-- Planning smart automation
-- Researching IoT analytics
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ SmartProperty</h3>
+      <p><strong>AI-Powered Real Estate Platform</strong></p>
+      <p>Multi-role real estate system with recommendation models, price prediction, OCR, computer vision, AI assistants, voice navigation, analytics, and real-time features.</p>
+      <p><code>React</code> <code>NestJS</code> <code>FastAPI</code> <code>MongoDB</code> <code>PyTorch</code> <code>XGBoost</code> <code>Docker</code> <code>Kubernetes</code></p>
+      <p><a href="https://portfolio-website-ecru-alpha-31.vercel.app/project/smartproperty">Case study</a> · <a href="https://youtu.be/z0v_b0Qgeng">Video demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Prigado AI</h3>
+      <p><strong>Intelligent E-Commerce Automation</strong></p>
+      <p>AI workflows and assistants for product enrichment, sales analytics, marketing automation, customer support, and logistics prediction.</p>
+      <p><code>n8n</code> <code>Laravel</code> <code>Vue.js</code> <code>MySQL</code> <code>Gemini</code> <code>REST APIs</code></p>
+      <p><a href="https://portfolio-website-ecru-alpha-31.vercel.app/project/prigado">Case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ MacroPark</h3>
+      <p><strong>Smart Parking Ecosystem</strong></p>
+      <p>Connected parking platform with LPR, WT32 barrier controllers, MQTT, BLE fallback, OTA updates, mobile access, and live event monitoring.</p>
+      <p><code>C++</code> <code>FastAPI</code> <code>MQTT</code> <code>BLE</code> <code>Docker</code> <code>Flutter</code> <code>WT32</code></p>
+      <p><a href="https://portfolio-website-ecru-alpha-31.vercel.app/project/macropark">Case study</a> · <a href="https://github.com/SofieneZayati/MacroPark">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ InnoMall</h3>
+      <p><strong>Integrated Mall Management System</strong></p>
+      <p>JavaFX and Symfony platform with IoT parking, reservations, Stripe payments, analytics, notifications, and an AI chatbot.</p>
+      <p><code>Symfony</code> <code>Java</code> <code>JavaFX</code> <code>MySQL</code> <code>Stripe</code> <code>Gemini</code> <code>IoT</code></p>
+      <p><a href="https://portfolio-website-ecru-alpha-31.vercel.app/project/innomall">Case study</a> · <a href="https://github.com/Eya-ajimi/pi_symfony1">Repository</a> · <a href="https://youtu.be/Zs875HdhmJ8">Demo</a></p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=The+magic+happens+when+these+worlds+collide!+%E2%9A%A1;Creating+smart+solutions+for+real+problems+%F0%9F%8C%9F" alt="Magic" />
+  <a href="https://portfolio-website-ecru-alpha-31.vercel.app">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-00F5FF?style=for-the-badge&logo=vercel&logoColor=050505" alt="Explore all projects" />
+  </a>
 </div>
+
+---
+
+## Technology Map
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php&theme=dark" alt="Languages" />
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,angular,vue,tailwind,nestjs,fastapi,spring,laravel,symfony&theme=dark" alt="Frontend and backend stack" />
+
+### AI, Data & Automation
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI tools" />
+<br />
+<img src="https://img.shields.io/badge/XGBoost-050505?style=for-the-badge&logoColor=00F5FF" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LLM_Integration-050505?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="LLM integration" />
+<img src="https://img.shields.io/badge/n8n-050505?style=for-the-badge&logo=n8n&logoColor=00F5FF" alt="n8n" />
+<img src="https://img.shields.io/badge/OCR-050505?style=for-the-badge&logoColor=00F5FF" alt="OCR" />
+
+### Databases, Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,kubernetes,jenkins,git,githubactions,linux,vercel&theme=dark" alt="Databases and DevOps" />
+
+### Embedded Systems & IoT
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+<br />
+<img src="https://img.shields.io/badge/ESP32-050505?style=for-the-badge&logo=espressif&logoColor=00F5FF" alt="ESP32" />
+<img src="https://img.shields.io/badge/WT32--ETH01-050505?style=for-the-badge&logoColor=00F5FF" alt="WT32-ETH01" />
+<img src="https://img.shields.io/badge/MQTT-050505?style=for-the-badge&logo=mqtt&logoColor=00F5FF" alt="MQTT" />
+<img src="https://img.shields.io/badge/Bluetooth_LE-050505?style=for-the-badge&logo=bluetooth&logoColor=00F5FF" alt="Bluetooth Low Energy" />
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## GitHub Signal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofienezayati&custom_title=Sofiene's%20Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=F75C7E&point=36BCF7&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SofieneZayati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=00F5FF&ring_color=00F5FF&rank_icon=github" alt="Sofiene's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofieneZayati&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SofieneZayati&hide_border=true&background=0D1117&stroke=30363D&ring=00F5FF&fire=00F5FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00F5FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Animated 3D Contribution Landscape
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Let's+Connect!+%F0%9F%A4%9D" alt="Connect" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://portfolio-website-ecru-alpha-31.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sofiene.zayati@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/sofiene-zayati)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/sofiene_zayati)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/Legacyyyyyyyy/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/sofiene_zayati/)
-
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution calendar" />
 </div>
+
+> This visual is generated automatically every day by GitHub Actions.
+
+---
+
+## Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph.svg" />
+  <img alt="Animated Pac-Man GitHub contribution graph" src="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph.svg" />
+</picture>
+
+---
+
+<details>
+<summary><strong>Experience & Education</strong></summary>
+<br />
+
+### Experience
+
+- **AI Automation & Full-Stack Developer — Inspark Connect**  
+  Built AI-powered workflows and intelligent assistants for the Prigado e-commerce platform.
+
+- **Embedded Systems & Software Developer Intern — Scheidt & Bachmann**  
+  Developed MacroPark with LPR, connected barriers, MQTT, BLE, mobile access, and backend services.
+
+- **Hardware & Software Project Manager Intern — Scheidt & Bachmann**  
+  Built a secure smart-lock system using ESP32, BLE authentication, and MQTT communication.
+
+- **Web Development Intern — Sotunol**  
+  Developed and improved the company's web platform.
+
+### Education
+
+- **Engineering Degree in Web and Internet Technologies (TWIN)** — ESPRIT, 2024–Present
+- **Bachelor's Degree in Embedded and Mobile Systems** — ISET Radès, 2021–2024
+
+### Languages
+
+Arabic — Native · English — Fluent · French — Fluent · German — Goethe-Zertifikat A2
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofienezayati&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=⚡+Where+Hardware+meets+Software%2C+Innovation+is+Born;🔧+Embedded+Engineer+%7C+Web+Developer+%7C+AI+Enthusiast;🚀+Building+tomorrow's+connected+world%2C+one+line+at+a+time;🌟+Always+learning%2C+always+building%2C+always+growing" alt="Quote" />
-  </h3>
+  <h3>Build the full system. Understand every layer.</h3>
+  <p>
+    <a href="mailto:sofiene.zayati@gmail.com">Email</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/sofiene-zayati">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="https://portfolio-website-ecru-alpha-31.vercel.app">Portfolio</a>
+  </p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=90&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  
-### 🎵 Currently Coding To:
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/intl-fr/album/3OxfaVgvTxUTy7276t7SPU?si=76ba4d3e2e3442c4)
-
-### 💡 Fun Facts:
-- 🔌 I can make LEDs dance to web APIs
-- 🤖 My favorite debugging buddy is an oscilloscope  
-- 🌐 I dream in both C++ and JavaScript
-- ⚡ Currently working on making my fish tank IoT-enabled
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F2A,100:00F5FF&height=120&section=footer" alt="Animated footer" />
