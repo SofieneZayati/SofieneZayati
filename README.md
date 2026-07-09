@@ -133,12 +133,12 @@ I build complete intelligent systems—from embedded controllers and backend ser
 ## GitHub Signal
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SofieneZayati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=00F5FF&ring_color=00F5FF&rank_icon=github" alt="Sofiene's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofieneZayati&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" alt="Most used languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SofieneZayati&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=E6EDF3&amp;icon_color=00F5FF&amp;ring_color=00F5FF&amp;rank_icon=github&amp;cache_seconds=21600" alt="Sofiene's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofieneZayati&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=E6EDF3&amp;cache_seconds=21600" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SofieneZayati&hide_border=true&background=0D1117&stroke=30363D&ring=00F5FF&fire=00F5FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00F5FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SofieneZayati&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=00F5FF&amp;fire=00F5FF&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=00F5FF&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 ---
