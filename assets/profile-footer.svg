@@ -1,0 +1,26 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated profile footer</title>
+  <desc id="desc">A dark animated neon footer with the phrase build the full system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070A"/>
+      <stop offset="0.55" stop-color="#08151D"/>
+      <stop offset="1" stop-color="#071A21"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#5DF2D6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <rect width="1200" height="150" fill="url(#bg)"/>
+  <path d="M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28" stroke="url(#wave)" stroke-opacity="0.24" stroke-width="2">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28;M0 28C160 72 310 3 470 38C650 77 790 -1 970 37C1075 61 1135 54 1200 32;M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28"/>
+  </path>
+  <path d="M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28" stroke="url(#wave)" stroke-opacity="0.15" stroke-width="8" filter="url(#glow)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28;M0 28C160 72 310 3 470 38C650 77 790 -1 970 37C1075 61 1135 54 1200 32;M0 35C180 5 300 70 470 35C650 -2 790 76 970 37C1060 17 1130 13 1200 28"/>
+  </path>
+  <text x="600" y="96" text-anchor="middle" fill="#E7F6F7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">BUILD THE FULL SYSTEM. UNDERSTAND EVERY LAYER.</text>
+  <text x="600" y="123" text-anchor="middle" fill="#718795" font-family="JetBrains Mono, Consolas, monospace" font-size="13">sofienezayati.tn  •  Tunis, Tunisia</text>
+</svg>

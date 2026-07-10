@@ -1,0 +1,66 @@
+<svg width="1000" height="210" viewBox="0 0 1000 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated developer pipeline</title>
+  <desc id="desc">An animated pipeline connecting idea, interface, API, artificial intelligence, cloud, and devices.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#08151D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="0" x2="910" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="0.58" stop-color="#5DF2D6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="208" rx="22" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <text x="500" y="37" text-anchor="middle" fill="#DDE7EE" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">FROM IDEA TO WORKING SYSTEM</text>
+  <text x="500" y="59" text-anchor="middle" fill="#728594" font-family="JetBrains Mono, Consolas, monospace" font-size="12">one connected delivery pipeline</text>
+
+  <path id="route" d="M92 125H908" stroke="url(#line)" stroke-width="3" stroke-opacity="0.45" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="12" text-anchor="middle">
+    <g transform="translate(92 125)">
+      <circle r="34" fill="#07151B" stroke="#00F5FF" stroke-opacity="0.75"/>
+      <text y="5" fill="#E8F7FA" font-size="18">✦</text>
+      <text y="57" fill="#8EA0AD">IDEA</text>
+    </g>
+    <g transform="translate(255 125)">
+      <circle r="34" fill="#07151B" stroke="#00F5FF" stroke-opacity="0.65"/>
+      <text y="5" fill="#E8F7FA" font-size="17">&lt;/&gt;</text>
+      <text y="57" fill="#8EA0AD">INTERFACE</text>
+    </g>
+    <g transform="translate(418 125)">
+      <circle r="34" fill="#07151B" stroke="#34E4D2" stroke-opacity="0.65"/>
+      <text y="5" fill="#E8F7FA" font-size="17">API</text>
+      <text y="57" fill="#8EA0AD">BACKEND</text>
+    </g>
+    <g transform="translate(582 125)">
+      <circle r="34" fill="#07151B" stroke="#5DF2D6" stroke-opacity="0.65"/>
+      <text y="5" fill="#E8F7FA" font-size="17">AI</text>
+      <text y="57" fill="#8EA0AD">INTELLIGENCE</text>
+    </g>
+    <g transform="translate(745 125)">
+      <circle r="34" fill="#09151C" stroke="#79C9E8" stroke-opacity="0.65"/>
+      <text y="5" fill="#E8F7FA" font-size="18">☁</text>
+      <text y="57" fill="#8EA0AD">CLOUD</text>
+    </g>
+    <g transform="translate(908 125)">
+      <circle r="34" fill="#0C1320" stroke="#8B5CF6" stroke-opacity="0.75"/>
+      <text y="5" fill="#E8F7FA" font-size="18">◉</text>
+      <text y="57" fill="#8EA0AD">DEVICE</text>
+    </g>
+  </g>
+
+  <circle r="7" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="4.8s" repeatCount="indefinite" keyTimes="0;1" keySplines="0.4 0 0.2 1" calcMode="spline">
+      <mpath href="#route"/>
+    </animateMotion>
+  </circle>
+</svg>

@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F2A,100:00F5FF&height=225&section=header&text=Sofiene%20Zayati&fontSize=62&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20Embedded%20%26%20Mobile%20Systems%20Graduate&descAlignY=60&descSize=18&animation=fadeIn" alt="Sofiene Zayati profile header" />
+<div align="center">
+  <img width="100%" src="./assets/profile-header.svg" alt="Sofiene Zayati animated profile header" />
+</div>
 
 <div align="center">
 
@@ -49,6 +51,10 @@ const sofiene = {
 ```
 
 I build complete intelligent systems—from embedded controllers and backend services to polished interfaces, machine-learning features, automation workflows, and deployment pipelines.
+
+<div align="center">
+  <img width="100%" src="./assets/dev-pipeline.svg" alt="Animated idea-to-device development pipeline" />
+</div>
 
 ---
 
@@ -171,13 +177,25 @@ Arabic — Native · English — Fluent · French — Fluent · German — Goeth
 
 ---
 
-## 3D Contribution Landscape
+## Animated 3D Contribution Landscape
 
 <div align="center">
   <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution calendar" />
 </div>
 
 > Generated automatically every day by GitHub Actions.
+
+---
+
+## Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph.svg" />
+  <img width="100%" alt="Animated Pac-Man GitHub contribution graph" src="https://raw.githubusercontent.com/SofieneZayati/SofieneZayati/output/pacman-contribution-graph.svg" />
+</picture>
+
+> Pac-Man is generated automatically by the included GitHub Actions workflow and published to the `output` branch.
 
 ---
 
@@ -194,7 +212,8 @@ Arabic — Native · English — Fluent · French — Fluent · German — Goeth
     </a>
   </p>
   <p><code>sofiene.zayati@gmail.com</code></p>
-  <h3>Build the full system. Understand every layer.</h3>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F2A,100:00F5FF&height=120&section=footer" alt="Profile footer" />
+<div align="center">
+  <img width="100%" src="./assets/profile-footer.svg" alt="Animated neon profile footer" />
+</div>
